@@ -3,8 +3,9 @@
 //  ShoppingList
 //
 //  Created by Student on 2019-10-16.
-//  Copyright © 2019 CentennialCollege. All rights reserved.
-//
+//  Name : Loveleen Kaur
+// Student Id : 301093331
+// Date : 16 october 2019
 
 import UIKit
 
@@ -15,20 +16,13 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-    @IBOutlet weak var item1quantity: UILabel!
+   
+    @IBOutlet weak var label1: UILabel!
     
-    @IBOutlet weak var item2quantity: UILabel!
-    
-    @IBOutlet weak var item3quantity: UILabel!
-    
-    @IBOutlet weak var item4quantity: UILabel!
-    
-    @IBOutlet weak var item5quantity: UILabel!
-    
-    @IBAction func newItem(_ sender: Any) {
-    }
-    
-    
+    @IBOutlet weak var label2: UILabel!
+    @IBOutlet weak var label3: UILabel!
+    @IBOutlet weak var label4: UILabel!
+    @IBOutlet weak var label5: UILabel!
     @IBAction func item1(_ sender: Any) {
     }
     
@@ -56,6 +50,7 @@ class ViewController: UIViewController {
     @IBAction func item5sub(_ sender: Any) {
     }
     @IBAction func item1add(_ sender: Any) {
+        la
     }
     @IBAction func item2add(_ sender: Any) {
     }
