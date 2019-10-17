@@ -50,7 +50,6 @@ class ViewController: UIViewController {
     @IBAction func item5sub(_ sender: Any) {
     }
     @IBAction func item1add(_ sender: Any) {
-        la
     }
     @IBAction func item2add(_ sender: Any) {
     }
