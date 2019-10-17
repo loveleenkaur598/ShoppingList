@@ -15,7 +15,56 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBOutlet weak var item1quantity: UILabel!
+    
+    @IBOutlet weak var item2quantity: UILabel!
+    
+    @IBOutlet weak var item3quantity: UILabel!
+    
+    @IBOutlet weak var item4quantity: UILabel!
+    
+    @IBOutlet weak var item5quantity: UILabel!
+    
+    @IBAction func newItem(_ sender: Any) {
+    }
+    
+    
+    @IBAction func item1(_ sender: Any) {
+    }
+    
+    @IBAction func item2(_ sender: Any) {
+    }
+    
+    @IBAction func item3(_ sender: Any) {
+    }
+    
+    @IBAction func item4(_ sender: Any) {
+    }
+    
+    @IBAction func item5(_ sender: Any) {
+    }
+    
+    
+    @IBAction func item1sub(_ sender: Any) {
+    }
+    @IBAction func item2sub(_ sender: Any) {
+    }
+    @IBAction func item3sub(_ sender: Any) {
+    }
+    @IBAction func item4sub(_ sender: Any) {
+    }
+    @IBAction func item5sub(_ sender: Any) {
+    }
+    @IBAction func item1add(_ sender: Any) {
+    }
+    @IBAction func item2add(_ sender: Any) {
+    }
+    @IBAction func item3add(_ sender: Any) {
+    }
+    @IBAction func item5add(_ sender: Any) {
+    }
+    @IBAction func item4add(_ sender: Any) {
+    }
 }
 
 // for button borderwidth , radius and bordercolor
